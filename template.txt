@@ -1,8 +1,2 @@
-my name is <NAME>, my favorite color is <COLOR>
-
-aaaa<NAME>adfs<COLOR><NAME><COLOR>
-
-<NAME> <COLOR> <NAME> <COLOR>
-
-Sincerely,
-<NAME> (The <COLOR> Lord)
+<NAME> likes the color <COLOR>.
+Many <COLOR> things belong to <NAME>.

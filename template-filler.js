@@ -9,7 +9,7 @@ var outputFilename = "out.txt";
 var replace = 
 [
 	{ from: "<NAME>", to: "Shaggy" },
-	{ from: "<COLOR>", to: "Red" },
+	{ from: "<COLOR>", to: "red" },
 ];
 
 // ******************************************* //
